@@ -1,0 +1,73 @@
+IGT Abbreviation,Unimorph Abbreviation
+???,Unk
+A1P,"['ABS', '1', 'PL']"
+A1S,"['ABS', '1', 'SG']"
+A2P,"['ABS', '2', 'PL']"
+A2S,"['ABS', '2', 'SG']"
+ADJ,ADJ
+ADV,ADV
+AFE,V
+AFI,POS
+AGT,AGFOC
+AP,ANTIP
+APLI,APPL
+ART,"ART, INDF"
+CAU,CAUS
+CLAS,CLF
+COM,PRF
+COND,COND
+CONJ,CONJ
+DEM,PRO.DEM
+DIM,PART.DIM
+DIR,DIREC
+E1,"['ERG', '1']"
+E1P,"['ERG', '1', 'PL']"
+E1S,"['ERG', '1', 'SG']"
+E2,"['ERG', '2']"
+E2P,"['ERG', '2', 'PL']"
+E2S,"['ERG', '2', 'SG']"
+E3,"['ERG', '3']"
+E3P,"['ERG', '3', 'PL']"
+E3S,"['ERG', '3', 'SG']"
+ENF,PART.emph
+ESP,ESP
+EXS,V
+GEN,GEN
+GNT,N.DEM
+IMP,IMP
+INC,IPFV
+INS,INS
+INT,INT
+ITR,INTR
+ITS,ITS
+MED,MEDIDA
+MOV,AUX
+NEG,NEG
+NOM,PROPN
+NUM,NUM
+PART,PART
+PAS,PASS
+PL,PL
+POS,POSIT
+PP,"['PRF', 'V.PTCP']"
+PREP,ADP
+PRG,PROG
+PRON,PRO
+REC,RECP
+RFX,REFL
+S,N
+SREL,N.REL
+SAB,N.ABS
+SC,SC
+SV,V.MSDR
+TOP,PROPN
+TRN,APPL
+VI,"['V', 'INTR']"
+VT,"['V', 'TR']"
+VOC,VOC
+EP,EP
+PREF,-
+SUF,-
+TAM,-
+PERS,-
+empty,empty
